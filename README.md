@@ -1,5 +1,4 @@
 - Hi, I’m @Alnuyt
-- I’m interested in sciences and sport
 - I’m currently learning physics as a master's student at UCLouvain
 
 <!---
