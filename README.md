@@ -5,9 +5,10 @@ Modélisation des phénomènes physiques :
 - Dynamique des fluides et MHD
 - Simulation numérique et calcul scientifique
 - Programmation en Python et analyse de données
-
+## 📫 Me contacter :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-nuyt-1504ba234/)
 
+## 🛠️ Technologies et Outils :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
