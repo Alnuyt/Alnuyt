@@ -1,5 +1,5 @@
 ## 👋 Bienvenue sur mon profil !
-Je suis Alexandre Nuyt, passionné par la physique et la modélisation numérique, actuellement étudiant en 2ème année de master à l'Université Catholique de Louvain.
+Je m'appelle Alexandre Nuyt, passionné par la physique et la modélisation numérique, actuellement étudiant en 2ème année de master à l'Université Catholique de Louvain.
 ## 🌍 Domaines d'intérêt :
 Modélisation des phénomènes physiques : 
 - Dynamique des fluides et MHD
