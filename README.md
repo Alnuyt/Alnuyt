@@ -6,8 +6,7 @@ Modélisation des phénomènes physiques :
 - Simulation numérique et calcul scientifique
 - Programmation en Python et analyse de données
 
-## 📫 Me contacter :
-🔗 LinkedIn : [https://www.linkedin.com/in/alexandre-nuyt-1504ba234/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-nuyt-1504ba234/)
 
 <!---
 Alnuyt/Alnuyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
