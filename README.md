@@ -10,6 +10,7 @@ Modélisation des phénomènes physiques :
 
 ## 🛠️ Technologies et Outils :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0.18.1-blue?style=for-the-badge&logo=scipy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SageMath](https://img.shields.io/badge/SageMath-000000?style=for-the-badge&logo=sagemath&logoColor=white)
