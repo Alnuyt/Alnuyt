@@ -1,14 +1,14 @@
-## 👋 Bienvenue sur mon profil !
-Je m'appelle Alexandre Nuyt, passionné par la physique et actuellement étudiant en 2ème année de master à l'Université Catholique de Louvain.
-## 🌍 Domaines d'intérêt :
-Modélisation de phénomènes physiques :
-- Dynamique des fluides et MHD
-- Simulation numérique et calcul scientifique
-- Programmation en Python et analyse de données
-## 📫 Me contacter :
+## 👋 Welcome !
+My name is Alexandre Nuyt, and I work in physics at the Université Catholique de Louvain (UCLouvain).
+## 🌍 Areas of Interest:
+Modeling of physical phenomena:
+  - Fluid dynamics and magnetohydrodynamics (MHD)
+  - Numerical simulation and scientific computing
+  - Python programming and data analysis
+## 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-nuyt-1504ba234/)
 
-## 🛠️ Technologies et Outils :
+## 🛠️ Technologies & Tools :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0.18.1-blue?style=for-the-badge&logo=scipy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0077B5?style=for-the-badge&logo=matplotlib&logoColor=white)
