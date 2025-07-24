@@ -2,9 +2,9 @@
 I am Alexandre Nuyt, and I work in physics at the Catholic University of Louvain.
 ## 🌍 Areas of Interest:
 Modeling of physical phenomena:
-  - Fluid dynamics and magnetohydrodynamics (MHD)
+  - Fluid dynamics & Magnetohydrodynamics
   - Numerical simulation and scientific computing
-  - Python programming and data analysis
+  - Python programming & data analysis
 ## 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-nuyt-1504ba234/)
 
