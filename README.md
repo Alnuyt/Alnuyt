@@ -1,5 +1,5 @@
 ## 👋 Welcome !
-My name is Alexandre Nuyt, and I work in physics at the Université Catholique de Louvain (UCLouvain).
+I am Alexandre Nuyt, and I work in physics at the Catholic University of Louvain.
 ## 🌍 Areas of Interest:
 Modeling of physical phenomena:
   - Fluid dynamics and magnetohydrodynamics (MHD)
